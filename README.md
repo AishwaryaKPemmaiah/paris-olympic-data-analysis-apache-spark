@@ -1,6 +1,7 @@
 🏅 Paris Olympic Data Analysis with Apache Spark
 
 This project explores Paris Olympic datasets using Apache Spark (PySpark) on Databricks Community Edition. It highlights how Spark's distributed data processing can uncover insights into athlete participation, gender trends, coaching roles, and medal performance.
+
 🔧 Tools & Technologies
 
     Apache Spark (PySpark)
